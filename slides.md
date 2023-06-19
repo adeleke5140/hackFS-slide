@@ -39,7 +39,7 @@ transition: fade-out
 How do open source contributors get compensated for contributing and how can those contributions be publicly verified. Inspired by Hacktoberfest, POD aims to bridge that gap.
 Rewarding open source contributors with NFTs, which act as a public source of truth of contributors credentials.
 
-<div class="text-white">
+<div>
   <p>Web3 &lt;- POD -&gt; Open source</p>
   <span>We are the bridge.</span>
 </div>
@@ -71,11 +71,11 @@ image: https://lh3.googleusercontent.com/v6dE4oVLnN1Iv0q3495SurxzRUghRq07WaOE-cy
 ---
 
 # Inspiration
+<p>Inspired by community:</p>
 
-<p class="text-white">
 I attended the largest open source community in Africa called OSCAFest. The experience led me into contemplation of how I could create a public good for web3 contributors and the open source ecosystem. That was our way of contributing to the developer community that has given us so much. the community is why we are here,
 we have then created this project to better enable the developer community.
-</p>
+
 
 
 ---
@@ -83,6 +83,7 @@ layout: iframe-right
 url: https://pod-hackfs.vercel.app/
 ---
 # Solution
+<p> what we've built:</p>
 
 Utilizing smart contracts on `FEVM`, storage on `web3Storage` and `IPFS`, `ENS` and various other open source tools, we have created a product, crafted beautifully to onboard open source projects and enable them craft and utilize customized NFTs.
 
@@ -94,6 +95,7 @@ We also abstract away unnecessary complexity so that users can focus on what mat
 
 
 # Final thoughts
+<p>our plans moving forward</p>
 
 We are very excited about building this public good for the web3 ecosystem. Right now, we have been able to hack on the MVP for HackFS but there is still so much we have planned and we look forward to sharing that with the community.🚀
 

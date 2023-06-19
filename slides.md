@@ -76,6 +76,17 @@ image: https://lh3.googleusercontent.com/v6dE4oVLnN1Iv0q3495SurxzRUghRq07WaOE-cy
 I attended the largest open source community in Africa called OSCAFest. The experience led me into contemplation of how I could create a public good for web3 contributors and the open source ecosystem. That was our way of contributing to the developer community that has given us so much. the community is why we are here,
 we have then created this project to better enable the developer community.
 
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
 
 
 ---
@@ -90,9 +101,20 @@ Utilizing smart contracts on `FEVM`, storage on `web3Storage` and `IPFS`, `ENS` 
 The idea might not be new but our take with an easy to use  UI improves the user experience. UX and UI are paramount in web3.
 
 We also abstract away unnecessary complexity so that users can focus on what matters on the platform.
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
+
 ---
-
-
 
 # Final thoughts
 <p>our plans moving forward</p>
@@ -101,3 +123,15 @@ We are very excited about building this public good for the web3 ecosystem. Righ
 
 <div class="text-size-3xl">Thank you for listening! 🎉</div>
 
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+</style>
